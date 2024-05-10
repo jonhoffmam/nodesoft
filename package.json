@@ -1,0 +1,28 @@
+{
+  "name": "nodesoft",
+  "version": "1.0.0",
+  "description": "A CLI to reload with each saved change.",
+  "main": "lib/index.js",
+  "bin": {
+    "node-soft": "bin/nodesoft.js",
+    "nodesoft": "bin/nodesoft.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "restart",
+    "reload",
+    "autoload",
+    "auto-load",
+    "command",
+    "command-line",
+    "commandline"
+  ],
+  "author": {
+    "name": "Jonathan Hoffmam Pivetta",
+    "url": "https://github.com/jonhoffmam"
+  },
+  "license": "MIT"
+}
