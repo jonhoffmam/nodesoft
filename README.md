@@ -7,13 +7,13 @@ nodesoft is a simple CLI for watching changes to your Node applications or a sim
 Install nodesoft globally with [**npm**](http://npmjs.org/) using the command below to use in your terminal:
 
 ```bash
-npm install -g @jonhoffmam/nodesoft
+npm install -g nodesoft
 ```
 
 You can also install nodesoft as a development dependency:
 
 ```bash
-npm install --save-dev @jonhoffmam/nodesoft
+npm install --save-dev nodesoft
 ```
 
 ## Usage
@@ -37,8 +37,6 @@ Example:
   "start": "nodesoft [your script.js]"
 }
 ```
-
-When running your application it will be available at <http://localhost:3000>
 
 ## Collaborators
 
