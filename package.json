@@ -2,6 +2,14 @@
   "name": "nodesoft",
   "version": "1.0.0",
   "description": "A CLI to reload with each saved change.",
+  "author": {
+    "name": "Jonathan Hoffmam Pivetta",
+    "url": "https://github.com/jonhoffmam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonhoffmam/nodesoft"
+  },
   "main": "lib/index.js",
   "bin": {
     "node-soft": "bin/nodesoft.js",
@@ -20,9 +28,5 @@
     "command-line",
     "commandline"
   ],
-  "author": {
-    "name": "Jonathan Hoffmam Pivetta",
-    "url": "https://github.com/jonhoffmam"
-  },
   "license": "MIT"
 }
